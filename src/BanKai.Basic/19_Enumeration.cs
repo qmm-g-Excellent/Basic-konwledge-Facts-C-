@@ -47,9 +47,6 @@ namespace BanKai.Basic
             //如果枚举数成功地推进到下一个元素，则为 true；如果枚举数越过集合的结尾，则为 false。
 
 
-            Console.WriteLine(notEndOfIteration);
-
-
             // change the variable value to fix the test.
             const bool expected = true;
 
